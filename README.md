@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hi Everyone,
+Prakrita here.I love to code and cook.
+
